@@ -23,10 +23,10 @@ scikit-learn==0.22.1
 scipy==1.4.1
 six==1.14.0
 sklearn==0.0
-submitit==0.3.1
+submitit==1.2.1
 subprocess32==3.5.4
-torch==1.4.0+cu92
-torchvision==0.5.0+cu92
+torch==1.4.0
+torchvision==0.5.0
 torchviz==0.0.1
 tqdm==4.42.1
 typing-extensions==3.7.4.1
